@@ -4,7 +4,7 @@ i=0
 f=0
 a=random,randint(1.11)
 b=random,randint(1.11)
-c=random,randint(1.11)
+c=random,randint(1.11) 
 while n=0 and f=0 and e=0 :
     y=int(input('Берёте карту,True -да,False-нет'))
     if y=1:
