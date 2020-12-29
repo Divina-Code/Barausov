@@ -3,5 +3,6 @@ a=a.upper( )
 a=a.split( )
 for x in a :
    if x==x[::-1]:
-       print(x\n)
+       print('полиндром')
     else:
+        print('не полиндром')
