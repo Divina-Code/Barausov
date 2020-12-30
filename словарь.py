@@ -1,7 +1,7 @@
 a={}
 import random
 
-while  :
+while o==1 :
     f=input('добавить слово[1],играть[2]')
     if f==1:
         m=input('английское слово')
